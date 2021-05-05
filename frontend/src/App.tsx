@@ -10,6 +10,8 @@ function App() {
       <NavBar />
       <div className="container">
         <h1 className="text-primary py-3">Dashboard de vendas</h1>
+        <h4>Criado por: Wilembergson</h4>
+        <br/>
 
         <div className="row px-3">
           <div className="col sm-6">
