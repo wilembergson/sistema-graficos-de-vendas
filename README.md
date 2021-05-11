@@ -1,4 +1,4 @@
-# sistema-graficos-de-vendas
+# Sistema gráfico de vendas
 
 ## Descrição do Projeto
 <p align="center">O sistema mostra dados de vendas e seus respectivos vendedores em gráficos.
